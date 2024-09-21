@@ -1,7 +1,7 @@
 # Giovanni Urdaneta
 💻 Soy un Ingeniero en computación interesado en aprender cada día más sobre desarrollo de software, principalmente desarrollo backend y bases de datos. 
 <br><br>
-🧐 Estas son algunas de las tecnologías que utilizo con frecuencia:
+🧐 Utilizo principalmente estas tecnologías:
 <br><br>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
 <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express"/>&nbsp;
-<img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"  title="CSS" alt="CSS"/>&nbsp;
-<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
 <br><br>
 📞 Puedes contactarme a través de:
 <br><br>
