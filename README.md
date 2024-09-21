@@ -1,5 +1,5 @@
 # Giovanni Urdaneta
-💻 Soy un Ingeniero en computación interesado en aprender cada día más sobre desarrollo de software, principalmente desarrollo backend y bases de datos. 
+💻 Soy un Ingeniero en computación interesado en aprender cada día más sobre desarrollo de software, en especial sobre desarrollo backend y bases de datos. 
 <br><br>
 🧐 Utilizo principalmente estas tecnologías:
 <br><br>
