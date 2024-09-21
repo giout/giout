@@ -1,7 +1,7 @@
 # Giovanni Urdaneta
-💻 Soy un Ingeniero en computación interesado en aprender cada día más sobre desarrollo de software, en especial sobre desarrollo backend y bases de datos. 
+💻 I'am a computer engineer who is keen on learning more every day about software development, especially about backend development and databases. 
 <br><br>
-🧐 Utilizo principalmente estas tecnologías:
+🧐 I primarily use these technologies:
 <br><br>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
 <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express"/>&nbsp;
 <br><br>
-📞 Puedes contactarme a través de:
+📞 You can contact me through:
 <br><br>
 <a href="https://www.linkedin.com/in/giovanni-urdaneta-3027bb255/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:giovanniurdanetatulli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <br><br>
-💼 Te invito a echarle un vistazo a mis proyectos anclados.
+💼 I invite you to take a look on my pinned projects.
 <br><br>
-🙌 Gracias por visitar.
+🙌 Thanks for visiting.
