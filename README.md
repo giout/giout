@@ -3,18 +3,18 @@
 <br><br>
 🧐 Estas son algunas de las tecnologías que utilizo con frecuencia:
 <br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain-wordmark.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" width="40" height="40"/>&nbsp;
 <br><br>
 📞 Puedes contactarme a través de:
 <br><br>
