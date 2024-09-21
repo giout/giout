@@ -17,5 +17,7 @@
 <br><br>
 <a href="https://www.linkedin.com/in/giovanni-urdaneta-3027bb255/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:giovanniurdanetatulli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-
+<br><br>
+💼 Te invito a echarle un vistazo a mis proyectos anclados.
+<br><br>
 🙌 Gracias por visitar.
