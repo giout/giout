@@ -1,5 +1,5 @@
 # Giovanni Urdaneta
-💻 I'am a computer engineer who is keen on learning more every day about software development, especially about backend development and databases. 
+💻 I'am a computer engineer who is keen on learning more every day about web development and databases. 
 <br><br>
 🧐 I primarily use these technologies:
 <br><br>
@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express"/>&nbsp;
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=blue" title="React" alt="React"/>&nbsp;
 <br><br>
 📞 You can contact me through:
 <br><br>
