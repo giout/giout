@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" alt="Typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
+<img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express"/>&nbsp;
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
