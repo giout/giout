@@ -1,5 +1,5 @@
 # Giovanni Urdaneta
-💻 I'am a computer engineer who is keen on learning more every day about backend development. 
+💻 I am a computer engineer who is keen on learning more every day about backend development. 
 <br><br>
 🧐 I primarily use these technologies:
 <br><br>
