@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" alt="Typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express"/>&nbsp;
+<img src="https://img.shields.io/badge/fastify-white?style=for-the-badge&logo=fastify&logoColor=black" title="Fastify" alt="Fastify"/>&nbsp;
 <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
 <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB"/>&nbsp;
