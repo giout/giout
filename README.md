@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/fastify-white?style=for-the-badge&logo=fastify&logoColor=black" title="Fastify" alt="Fastify"/>&nbsp;
 <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
+<img src="https://img.shields.io/badge/sqlserver-white?style=for-the-badge&logo=mysql&logoColor=red" title="SQLServer" alt="SQLServer"/>&nbsp;
 <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
