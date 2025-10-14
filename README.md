@@ -3,6 +3,7 @@
 <br><br>
 🧐 I primarily use these technologies:
 <br><br>
+<img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white" title="Linux" alt="Linux"/>&nbsp;
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" alt="Typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
