@@ -1,5 +1,5 @@
 # Giovanni Urdaneta
-💻 I am a computer engineer who is keen on learning more every day about software development and bringing innovative solutions to the industry. 
+💻 I am a software/ai engineer who is keen on learning more every day about software development and bringing innovative solutions to the industry. 
 <br><br>
 🧐 I primarily use these technologies:
 <br><br>
